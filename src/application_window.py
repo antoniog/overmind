@@ -1,5 +1,5 @@
 """
-    Copyright (c) 2012 Jose Carlos Temprado <thempra@thempra.net>
+    .Copyright (c) 2012 Jose Carlos Temprado <thempra@thempra.net>
          
     This file is part of OverMind.
 
